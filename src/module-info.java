@@ -4,5 +4,5 @@
 /**
  * 
  */
-module FirstApp {
+module SecondApp {
 }
